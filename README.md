@@ -39,7 +39,7 @@ const anmol = {
 <!--START_SECTION:waka-->
 **Favorite anime top list 🐤** 
 
-1- Kaguya-sama: Love is War <img src="https://cdn.discordapp.com/attachments/680122613418295313/775808726707339294/communityIcon_ot5a1jt42yl51.png" width="50">
+1- Kaguya-sama: Love is War <img src="https://cdn.discordapp.com/attachments/680122613418295313/775808726707339294/communityIcon_ot5a1jt42yl51.png" width="50"><br>
 2- High School DXD
 3- Darling in the FranXX
 4- Koe no Katachi
