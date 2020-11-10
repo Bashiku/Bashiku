@@ -40,15 +40,15 @@ const anmol = {
 **Favorite anime top list 🐤** 
 
 1- Kaguya-sama: Love is War <img src="https://cdn.discordapp.com/attachments/680122613418295313/775808726707339294/communityIcon_ot5a1jt42yl51.png" width="50"><br>
-2- High School DXD
-3- Darling in the FranXX
-4- Koe no Katachi
-5- Date a Live
-6- Akame ga Kill!
-7- Trinity Seven
-8- Owari no Seraph
-9- Neon Genesis Evangelion
-10- Nanatsu no Taizai
+2- High School DXD <img src="https://cdn.discordapp.com/attachments/680122613418295313/775810347092279322/koneko.png" width="50"><br>
+3- Darling in the FranXX <img src="https://cdn.discordapp.com/attachments/680122613418295313/775810582103720006/tumblr_p6vyqrqvZ71wt7ek9o1_400.png" width="50"><br>
+4- Koe no Katachi <img src="https://cdn.discordapp.com/attachments/680122613418295313/775808726707339294/communityIcon_ot5a1jt42yl51.png" width="50"><br>
+5- Date a Live <img src="https://cdn.discordapp.com/attachments/680122613418295313/775808726707339294/communityIcon_ot5a1jt42yl51.png" width="50"><br>
+6- Akame ga Kill! <img src="https://cdn.discordapp.com/attachments/680122613418295313/775808726707339294/communityIcon_ot5a1jt42yl51.png" width="50"><br>
+7- Trinity Seven <img src="https://cdn.discordapp.com/attachments/680122613418295313/775808726707339294/communityIcon_ot5a1jt42yl51.png" width="50"><br>
+8- Owari no Seraph <img src="https://cdn.discordapp.com/attachments/680122613418295313/775808726707339294/communityIcon_ot5a1jt42yl51.png" width="50"><br>
+9- Neon Genesis Evangelion <img src="https://cdn.discordapp.com/attachments/680122613418295313/775808726707339294/communityIcon_ot5a1jt42yl51.png" width="50"><br>
+10- Nanatsu no Taizai <img src="https://cdn.discordapp.com/attachments/680122613418295313/775808726707339294/communityIcon_ot5a1jt42yl51.png" width="50"><br>
 
 
 📊 **About the programming languages I know** 
