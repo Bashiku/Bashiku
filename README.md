@@ -1,7 +1,7 @@
 
 
 <h2>Hi (Koninichiwa) <img src="https://i.ibb.co/gV4nQNh/480785466182991874.png" width="30">, I'm Bas1C! <img src="https://aniturk.net/imgfooter.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://cdn.discordapp.com/attachments/533974559418875904/775837451909988362/b6166c79f65db461f571761041c88d6f.gif" width="260">
 <p><em>Software Engineer at <a href="http://www.theartuner.com">TheArtuner</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -35,9 +35,9 @@ const anmol = {
 };
 ```
 
-<img src="https://media.giphy.com/media/fAPSAU9ZEUs3cswwI4/giphy.gif" width="60"> <em><b>Just because you keep going doesn't mean you've forgotten things.</b> It just means you have to accept what happened and move on.
+<img src="https://media.giphy.com/media/fAPSAU9ZEUs3cswwI4/giphy.gif" width="60"> <em><b>Just because you keep going doesn't mean you've forgotten things.</b> It just means you have to accept what happened and move on.</em>
 
-<b>Hurt me with the truth, but never comfort me with lies!</b> 🥰</em>
+<em><b>Hurt me with the truth, but never comfort me with lies!</b> 🥰</em> <u><b>(Erza Scarlet)<b></u>
 
 ---
 <!--START_SECTION:waka-->
