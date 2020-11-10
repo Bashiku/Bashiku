@@ -11,7 +11,7 @@
 ### <img src="https://cdn.discordapp.com/attachments/533974559418875904/775823703199055922/tobiichi-angel-88915_orig.gif" width="70"> A little more information about me...
 
 ```javascript
-const anmol = {
+const basic = {
     pronouns: "He" | "Him",
     code: ["Javascript", "php", "Dart"],
     askMeAbout: ["web dev", "tech", "app dev", "designer"],
