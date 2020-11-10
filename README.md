@@ -2,14 +2,13 @@
 title: Bas1C
 discord: ✪ Bas1C™#2311
 date: '2018-10-02'
-spoiler: Code Styled Readme Template
 categories: ["code-styled", "all-profile"]
-githubUsername: 'Bas1C'
+githubUsername: 'bas1c9'
 ---
 
-<h2>Bas1C (基本的な)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Hi (Koninichiwa)🙏🏻, I'm Bas1C! <img src="https://aniturk.net/imgfooter.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Engineer at <a href="http://www.theartuner.com">TheArtuner</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
