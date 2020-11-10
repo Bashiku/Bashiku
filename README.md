@@ -1,4 +1,4 @@
-<h2>Hi (Koninichiwa)<img src="https://i.ibb.co/gV4nQNh/480785466182991874.png" width="40">, I'm Bas1C! <img src="https://aniturk.net/imgfooter.gif" width="50"></h2>
+<h2>Hi (Koninichiwa) <img src="https://i.ibb.co/gV4nQNh/480785466182991874.png" width="30">, I'm Bas1C! <img src="https://aniturk.net/imgfooter.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Software Engineer at <a href="http://www.theartuner.com">TheArtuner</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -37,13 +37,24 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-**I'm an early 🐤** 
-
+**Favorite anime top list 🐤** 
+```
+1- Kaguya-sama: Love is War <img src="https://cdn.discordapp.com/attachments/680122613418295313/775808726707339294/communityIcon_ot5a1jt42yl51.png" width="50">
+2- High School DXD
+3- Darling in the FranXX
+4- Koe no Katachi
+5- Date a Live
+6- Akame ga Kill!
+7- Trinity Seven
+8- Owari no Seraph
+9- Neon Genesis Evangelion
+10- Nanatsu no Taizai
+```
 
 
 📊 **About the programming languages I know** 
 
-![Bas1C's github stats](https://github-readme-stats.vercel.app/api?username=bas1c9&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bas1c9&show_icons=true&theme=radical)](https://github.com/bas1c9/github-readme-stats)
+![Bas1C's github stats](https://github-readme-stats.vercel.app/api?username=bas1c9&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bas1c9&show_icons=true&theme=radical)](https://github.com/bas1c9/github-readme-stats)
 
 
 
