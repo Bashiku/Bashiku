@@ -35,7 +35,9 @@ const anmol = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/fAPSAU9ZEUs3cswwI4/giphy.gif" width="60"> <em><b>Just because you keep going doesn't mean you've forgotten things.</b> It just means you have to accept what happened and move on.
+
+<b>Hurt me with the truth, but never comfort me with lies!</b> 🥰</em>
 
 ---
 <!--START_SECTION:waka-->
@@ -58,4 +60,4 @@ const anmol = {
 
 
 
-⭐️ From [@bas1c9](https://github.com/bas1c9)
+⭐️ Made BY [@bas1c9](https://github.com/bas1c9)
