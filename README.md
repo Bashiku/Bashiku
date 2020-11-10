@@ -8,7 +8,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
 ![GitHub followers](https://img.shields.io/github/followers/bas1c9?label=Follow&style=social)
 
-### <img src="https://cdn.discordapp.com/attachments/533974559418875904/775823703199055922/tobiichi-angel-88915_orig.gif" width="50"> A little more information about me...
+### <img src="https://cdn.discordapp.com/attachments/533974559418875904/775823703199055922/tobiichi-angel-88915_orig.gif" width="70"> A little more information about me...
 
 ```javascript
 const anmol = {
@@ -41,14 +41,15 @@ const anmol = {
 <!--START_SECTION:waka-->
 **Favorite anime top list 🐤** 
 
-| Rank          | Anime         | Character  |
-|:-------------:|:-------------|:----------:|
-| 1             | Kaguya-sama: Love is War | <img src="https://cdn.discordapp.com/attachments/533974559418875904/775816344477761576/kaguya.png" width="50"> |
-| 2 | High School DXD |   <img src="https://cdn.discordapp.com/attachments/533974559418875904/775815194555187260/koneko.png" width="50"> |
-| 3 | Darling in the FranXX | <img src="https://cdn.discordapp.com/attachments/533974559418875904/775819491757391932/zerotwo.png" width="50"> |
-| 4 | Koe no Katachi | <img src="https://cdn.discordapp.com/attachments/533974559418875904/775820567738712084/nishimiya.png" width="50"> |
-| 5 | Date a Live | <img src="https://cdn.discordapp.com/attachments/533974559418875904/775820949789736970/origami.png" width="50"> |
+| Rank          | Anime         | Character  | Rank   | Anime | Character |
+|:-------------:|:--------------|:----------:|:------:|:-----:|:---------:|
+| 1             | Kaguya-sama: Love is War | <img src="https://cdn.discordapp.com/attachments/533974559418875904/775816344477761576/kaguya.png" width="60"> | 6 | Akame ga Kill! | <img src="https://cdn.discordapp.com/attachments/533974559418875904/775828403634044958/mine.png" width="60"> |
+| 2 | High School DXD |   <img src="https://cdn.discordapp.com/attachments/533974559418875904/775815194555187260/koneko.png" width="60"> | 7 | Trinity Seven | <img src="https://cdn.discordapp.com/attachments/533974559418875904/775829357385351218/yuikurata.png" width="60"> |
+| 3 | Darling in the FranXX | <img src="https://cdn.discordapp.com/attachments/533974559418875904/775819491757391932/zerotwo.png" width="60"> | 8 | Owari no Seraph | <img src="https://cdn.discordapp.com/attachments/533974559418875904/775830038599565362/shinoa.png" width="60"> |
+| 4 | Koe no Katachi | <img src="https://cdn.discordapp.com/attachments/533974559418875904/775820567738712084/nishimiya.png" width="60"> | 9 | Neon Genesis Evangelion | <img src="https://cdn.discordapp.com/attachments/533974559418875904/775830648128536587/asuka.png" width="60"> |
+| 5 | Date a Live | <img src="https://cdn.discordapp.com/attachments/533974559418875904/775820949789736970/origami.png" width="60"> | 10 | Nanatsu no Taizai | <img src="https://cdn.discordapp.com/attachments/533974559418875904/775831474809208882/ban.png" width="60"> |
 
+<a href="https://myanimelist.net/animelist/Bas1C9"><img src="https://cdn.discordapp.com/attachments/533974559418875904/775826045533552680/1fHXTpbr3RY4_1s0g3ifjtQ.png" width="130"></a> 
 
 📊 **About the programming languages I know** 
 
