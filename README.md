@@ -1,21 +1,10 @@
----
-title: Bas1C
-discord: ✪ Bas1C™#2311
-date: '2018-10-02'
-categories: ["code-styled", "all-profile"]
-githubUsername: 'bas1c9'
----
-
-<h2>Hi (Koninichiwa)🙏🏻, I'm Bas1C! <img src="https://aniturk.net/imgfooter.gif" width="50"></h2>
+<h2>Hi (Koninichiwa)<img src="https://i.ibb.co/gV4nQNh/480785466182991874.png" width="40">, I'm Bas1C! <img src="https://aniturk.net/imgfooter.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Software Engineer at <a href="http://www.theartuner.com">TheArtuner</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+![GitHub followers](https://img.shields.io/github/followers/bas1c9?label=Follow&style=social)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -50,18 +39,11 @@ const anmol = {
 <!--START_SECTION:waka-->
 **I'm an early 🐤** 
 
-```text
-🌞 Morning    106 commits    ███████░░░░░░░░░░░░░░░░░░   31.09% 
-🌆 Daytime    82 commits     ██████░░░░░░░░░░░░░░░░░░░   24.05% 
-🌃 Evening    119 commits    ████████░░░░░░░░░░░░░░░░░   34.9% 
-🌙 Night      34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.97%
-
-```
 
 
 📊 **About the programming languages I know** 
 
-![Bas1C's github stats](https://github-readme-stats.vercel.app/api?username=bas1c9&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bas1c9)](https://github.com/anuraghazra/github-readme-stats)
+![Bas1C's github stats](https://github-readme-stats.vercel.app/api?username=bas1c9&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bas1c9&show_icons=true&theme=radical)](https://github.com/bas1c9/github-readme-stats)
 
 
 
