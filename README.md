@@ -7,7 +7,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
 ![GitHub followers](https://img.shields.io/github/followers/bas1c9?label=Follow&style=social)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://https://cdn.discordapp.com/attachments/533974559418875904/775823703199055922/tobiichi-angel-88915_orig.gif" width="50"> A little more information about me...
 
 ```javascript
 const anmol = {
