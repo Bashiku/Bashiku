@@ -13,7 +13,7 @@
 ```javascript
 const basic = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "php", "Dart"],
+    code: ["Javascript", "PHP", "Dart", "TypeScript"],
     askMeAbout: ["web dev", "tech", "app dev", "designer"],
     technologies: {
         mobileApp: ["Android App", "ios App"],
