@@ -27,7 +27,7 @@ const basic = {
         },
         devOps: ["AWS", "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "php"]
+        misc: ["Firebase"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentProject: "Anizm, I am developing AniTurk sites. I am also developing mobile application for AniTurk.",
