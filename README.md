@@ -2,11 +2,11 @@
 
 <h2>Hi (Koninichiwa) <img src="https://i.ibb.co/gV4nQNh/480785466182991874.png" width="30">, I'm Bas1C! <img src="https://aniturk.net/imgfooter.gif" width="50"></h2>
 <img align='right' src="https://cdn.discordapp.com/attachments/533974559418875904/775837451909988362/b6166c79f65db461f571761041c88d6f.gif" width="260">
-<p><em>Software Engineer at <a href="http://www.theartuner.com">TheArtuner</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<!--<p><em>Software Engineer at <a href="http://www.aniturk.net">TheArtuner</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>-->
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Bas1C99?label=Follow)
-![GitHub followers](https://img.shields.io/github/followers/bas1c9?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/bashiku?label=Follow&style=social)
 
 ### <img src="https://cdn.discordapp.com/attachments/533974559418875904/775823703199055922/tobiichi-angel-88915_orig.gif" width="70"> A little more information about me...
 
