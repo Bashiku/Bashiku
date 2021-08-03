@@ -11,7 +11,6 @@
 ### <img src="https://cdn.discordapp.com/attachments/533974559418875904/775823703199055922/tobiichi-angel-88915_orig.gif" width="70"> A little more information about me...
 <br>
 <br>
-<br>
 ```javascript
 const basic = {
     pronouns: "He" | "Him",
