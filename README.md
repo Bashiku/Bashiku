@@ -9,8 +9,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/bashiku?label=Follow&style=social)
 
 ### <img src="https://cdn.discordapp.com/attachments/533974559418875904/775823703199055922/tobiichi-angel-88915_orig.gif" width="70"> A little more information about me...
-<br>
-<br>
+
 ```javascript
 const basic = {
     pronouns: "He" | "Him",
