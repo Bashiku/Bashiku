@@ -5,7 +5,7 @@
 <!--<p><em>Software Engineer at <a href="http://www.aniturk.net">TheArtuner</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>-->
 
-![Twitter Follow](https://img.shields.io/twitter/follow/Bas1C99?label=Follow)
+![Twitter Follow](https://img.shields.io/twitter/follow/Bash1ku?label=Follow)
 ![GitHub followers](https://img.shields.io/github/followers/bashiku?label=Follow&style=social)
 
 ### <img src="https://cdn.discordapp.com/attachments/533974559418875904/775823703199055922/tobiichi-angel-88915_orig.gif" width="70"> A little more information about me...
