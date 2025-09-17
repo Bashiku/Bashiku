@@ -43,4 +43,5 @@ const basic = {
 
 📊 **About the programming languages I know** 
 
-![Bas1C's github stats](https://github-readme-stats.vercel.app/api?username=bashiku&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bashiku&show_icons=true&theme=radical)](https://github.com/bashiku/github-readme-stats)
+![Bas1C's github stats](https://github-readme-stats.vercel.app/api?username=bashiku&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bashiku&show_icons=true&theme=radical)
