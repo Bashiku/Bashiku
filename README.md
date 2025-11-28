@@ -18,15 +18,15 @@ const basic = {
     technologies: {
         mobileApp: ["Android App", "ios App"],
         frontEnd: {
-            js: ["react"],
+            js: ["react", "next.js"],
             css: ["semantic.ui", "bootstrap"]
         },
         backEnd: {
-            js: ["node", "express"],
-            php: ["laravel"]
+            js: ["node", "express", "nest.js"],
+            php: ["laravel", "codeigniter"]
         },
         devOps: ["AWS", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
+        databases: ["mongo", "MySQL", "sqlite"],
         misc: ["Firebase"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
