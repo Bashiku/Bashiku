@@ -7,8 +7,8 @@
 
 
 <div align="left" style="margin-bottom: 20px;">
-  <a href="https://twitter.com/Bash1ku">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  <a href="https://x.com/erman_hasret_">
+    <img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
   </a>
   <a href="https://github.com/bashiku">
     <img src="https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
