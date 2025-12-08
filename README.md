@@ -1,14 +1,24 @@
 
 
-<h2>Hi (Koninichiwa) <img src="https://i.ibb.co/gV4nQNh/480785466182991874.png" width="30">, I'm Bas1C! <img src="https://aniturk.net/imgfooter.gif" width="50"></h2>
-<img align='right' src="https://cdn.discordapp.com/attachments/533974559418875904/775837451909988362/b6166c79f65db461f571761041c88d6f.gif" width="260">
+<h2>Hi (Koninichiwa) <img src="https://i.ibb.co/gV4nQNh/480785466182991874.png" width="30">, I'm Bashiku! <img src="https://aniturk.net/imgfooter.gif" width="50"></h2>
 <!--<p><em>Software Engineer at <a href="http://www.aniturk.net">TheArtuner</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>-->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=250&height=30&lines=Software+Engineer;Full+Stack+Developer;Project+Creator" alt="Typing SVG" />
 
-![Twitter Follow](https://img.shields.io/twitter/follow/Bash1ku?label=Follow)
-![GitHub followers](https://img.shields.io/github/followers/bashiku?label=Follow&style=social)
 
-### <img src="https://cdn.discordapp.com/attachments/533974559418875904/775823703199055922/tobiichi-angel-88915_orig.gif" width="70"> A little more information about me...
+<div align="left" style="margin-bottom: 20px;">
+  <a href="https://twitter.com/Bash1ku">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://github.com/bashiku">
+    <img src="https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://aniturk.net">
+    <img src="https://img.shields.io/badge/AniTurk-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+</div>
+
+### A little more information about me...
 
 ```javascript
 const basic = {
@@ -34,14 +44,34 @@ const basic = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+</div>
+<div style="overflow: hidden;">
+  <img src="https://media.giphy.com/media/fAPSAU9ZEUs3cswwI4/giphy.gif" width="60" align="left" style="margin-right: 20px;">
+  <br>
+  <em><b>Just because you keep going doesn't mean you've forgotten things.</b> It just means you have to accept what happened and move on.</em>
+  <br>
+  <em><b>Hurt me with the truth, but never comfort me with lies!</b> 🥰</em> <u><b>(Erza Scarlet)</b></u>
+  <br clear="left">
+</div>
 
-<img src="https://media.giphy.com/media/fAPSAU9ZEUs3cswwI4/giphy.gif" width="60"> <em><b>Just because you keep going doesn't mean you've forgotten things.</b> It just means you have to accept what happened and move on.</em>
-
-<em><b>Hurt me with the truth, but never comfort me with lies!</b> 🥰</em> <u><b>(Erza Scarlet)<b></u>
 
 ---
 
 📊 **About the programming languages I know** 
 
-![Bas1C's github stats](https://github-readme-stats.vercel.app/api?username=bashiku&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bashiku&show_icons=true&theme=radical)
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bashiku&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+</div>
