@@ -13,7 +13,7 @@
   <a href="https://github.com/bashiku">
     <img src="https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://aniturk.net">
+  <a href="https://aniturk.com">
     <img src="https://img.shields.io/badge/AniTurk-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
 </div>
